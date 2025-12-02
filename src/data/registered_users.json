@@ -199,5 +199,30 @@
         "profileCompleteness": 40
       }
     }
+  },
+  "lohit@gmail.com": {
+    "password": "lohit@123",
+    "user": {
+      "id": "NEW1764682992285",
+      "email": "lohit@gmail.com",
+      "role": "ALUMNI",
+      "profile": {
+        "id": "PROF1764682992285",
+        "firstName": "lohit",
+        "lastName": "vardhan",
+        "department": "HUMANITIES",
+        "graduationYear": 2022,
+        "program": "Liberal Arts",
+        "phone": "",
+        "city": "",
+        "state": "",
+        "country": "USA",
+        "currentEmployer": "",
+        "jobTitle": "",
+        "employmentStatus": "EMPLOYED",
+        "verificationStatus": "PENDING",
+        "profileCompleteness": 40
+      }
+    }
   }
 }
